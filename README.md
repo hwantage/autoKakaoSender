@@ -27,8 +27,11 @@ https://gitlab.com/Whackur/kakaoautomsgsender
 * msg.txt 파일에 메시지 작성
 * 이미지가 있다면 msg.jpg 파일로 저장
 * 이미지를 전송하지 않으려면 msg.jpg 삭제
-* PC 카톡 실행 후 아래의 부분을 캡처하여 img 폴더에 저장
-
+* PC 카톡 실행 후 아래의 빨간색 부분을 캡처(Shift+Window+S)하여 img 폴더에 저장 
+<img src='https://user-images.githubusercontent.com/82494320/211988665-e0640f58-76d3-44a3-9002-34adc01440e2.png'>
+[캡처된 이미지]
+<img src='https://user-images.githubusercontent.com/82494320/211989746-1d64ddf7-7747-4820-bde8-463fa0f6058a.png'>
+⚠️ person_icon.png 파일이 짤려 있는 이유는 새로운 친구가 등록될 경우 우측 상단에 배너 아이콘이 추가로 생겨서 이미지 인식이 실패하기 때문에 빨간색 부분을 피해서 캡처해야 한다. <img src='https://user-images.githubusercontent.com/82494320/211989946-cc1fc8cd-9cc6-4f19-af87-506d37c1fd28.png'>
 
 ## 실행
 <pre>
