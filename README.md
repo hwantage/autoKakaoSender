@@ -25,7 +25,7 @@ https://gitlab.com/Whackur/kakaoautomsgsender
 
 ## 실행 준비
 * msg.txt 파일에 메시지 작성
-* 이미지가 있다면 msg.jpg 파일로 저장
+* 이미지를 전송하려면 msg.jpg 파일로 저장
 * 이미지를 전송하지 않으려면 msg.jpg 삭제
 
 ## 실행
